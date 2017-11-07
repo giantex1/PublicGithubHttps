@@ -1,0 +1,13 @@
+diff a/FileForTest9 copy b/FileForTest9 copy	(rejected hunks)
+@@ -5,10 +5,7 @@ Some Text Some Text
+ Some Text Some Text
+ Some Text Some Text
+ Some Text Some Text
+-Some Text Some Text
+-Some Text Some Text
+-Some Text Some Text
+-Some Text Some Text
++Some Text111111Some Text Some Text
+ Some Text Some Text
+ 
+ 
