@@ -1,0 +1,3 @@
+[submodule "git_sub"]
+	path = git_sub
+	url = /Users/svysh/Gitpublic2
